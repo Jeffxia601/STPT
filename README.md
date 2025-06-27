@@ -1,2 +1,2 @@
 # STPT
-Spatial-Temporal Pretrain Model
+Spatial-Temporal Pre-Training Model
