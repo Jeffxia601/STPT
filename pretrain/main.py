@@ -10,7 +10,6 @@ import torch.optim as optim
 
 from models import ViTBinaryClassifier
 from torch_utils import set_seed, get_device, numpy_to_data_loader
-
 from torch_utils import model_fit, classification_acc
 
 # Define function to sample 10% of the data
