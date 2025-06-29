@@ -12,7 +12,6 @@ from models_classification import  SimpleViT, SimpleCNN, SimpleLSTM
 from torch_utils import get_device, numpy_to_data_loader
 from torch_utils import model_fit, classification_acc, model_evaluate
 
-
 def main():
     device = get_device()
 
